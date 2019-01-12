@@ -5,7 +5,7 @@ IPy==0.83
 Jinja2==2.10
 MarkupSafe==1.1.0
 Werkzeug==0.14.1
-backports.ssl-match-hostname==3.5.0.1
+backports.ssl-match-hostname==3.7.0.1
 certifi==2018.11.29
 itsdangerous==1.1.0
 parsedatetime==2.4
