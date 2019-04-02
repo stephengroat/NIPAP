@@ -4,7 +4,7 @@ Flask-XML-RPC==0.1.2
 IPy==1.00
 Jinja2==2.10
 MarkupSafe==1.1.1
-Werkzeug==0.15.1
+Werkzeug==0.15.2
 backports.ssl-match-hostname==3.7.0.1
 certifi==2019.3.9
 itsdangerous==1.1.0
