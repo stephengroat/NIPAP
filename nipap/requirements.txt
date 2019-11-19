@@ -8,7 +8,7 @@ Werkzeug==0.16.0
 backports.ssl-match-hostname==3.7.0.1
 certifi==2019.9.11
 itsdangerous==1.1.0
-parsedatetime==2.4
+parsedatetime==2.5
 psutil==1.2.1							# rq.filter: >= 1.0,<2.0
 psycopg2==2.8.4
 pyparsing==2.4.5
