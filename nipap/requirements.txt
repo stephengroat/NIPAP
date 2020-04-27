@@ -1,5 +1,5 @@
 Flask==1.1.2
-Flask-Compress==1.4.0
+Flask-Compress==1.5.0
 Flask-XML-RPC==0.1.2
 IPy==1.00
 Jinja2==2.11.2
